@@ -1,0 +1,2 @@
+# rizdar_resolusi
+repository_untuk_menyimpan_rencana_rizdar_kedepan
